@@ -7,4 +7,4 @@ My first repository ever lol
 
 Anyway, lets see how what i wrote looks like.
 
-[To whom it may concern, this is me] (https://www.instagram.com/felidcz/)
+[To whom it may concern, this is me](https://www.instagram.com/felidcz/)
